@@ -23,18 +23,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Checkout atom-tools repository
-        uses: actions/checkout@v3
-        with:
-          repository: LinHanlove/atom-tools
-          ssh-strict: true
-          persist-credentials: true
-          clean: true
-          fetch-depth: 1
-          fetch-tags: false
-          lfs: false
-          submodules: false
-          set-safe-directory: true
 
       # 使用 Platane/snk 生成图片(贪吃蛇), see: https://github.com/Platane/snk
       - name: Generate Snake
