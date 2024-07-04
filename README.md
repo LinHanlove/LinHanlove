@@ -28,7 +28,6 @@
   <p>- 🔧 I'm a strong advocate for open source and believe in the power of sharing and collaboration.</p>
   <p>- 🛠️ I maintain an open-source toolkit called <a href="https://github.com/LinHanlove/atom-tools">atom-tools</a>. Feel free to contribute or provide feedback.</p>
   <p>- 🔭 At the moment, I'm working on exciting projects at First Show.</p>
-  <p>- 🏋 I'm passionate about fitness, and I find it really pays off.</p>
   <p>- 👨‍💻 I'm deeply passionate about coding and continually honing my skills.</p>
   <p>- 👻 I love to share knowledge and currently publish technical articles on <a href="https://juejin.cn/user/2670060580903288">Juejin</a>.</p>
   <p>- 📨 You can reach me at the wechat <code>linhan_0119</code>. Looking forward to connecting with you!</p>
