@@ -37,7 +37,7 @@ Hello there! My name is Lin Han, and I hail from the beautiful and diverse count
 
 <div class="text-center" style="font-size: larger; color: #333;">
   <h2 style="height: 200px; display: flex; align-items: center; justify-content: center;">
-    🎉 GitHub Action
+    🎉 GitHub Activity
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="width: 50px; height: auto; margin-left: 20px;">
   </h2>
   <p><br /></p>
@@ -45,7 +45,13 @@ Hello there! My name is Lin Han, and I hail from the beautiful and diverse count
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LinHanlove&theme=vue)](https://github.com/LinHanlove/github-readme-activity-graph)
 
-
+<div class="text-center" style="font-size: larger; color: #333;">
+  <h2 style="height: 200px; display: flex; align-items: center; justify-content: center;">
+    🎨 GitHub Contribution Snake
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="width: 50px; height: auto; margin-left: 20px;">
+  </h2>
+  <p><br /></p>
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
