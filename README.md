@@ -1,20 +1,8 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=LinHanlove)
 
-<!--
-**LinHanlove/LinHanlove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! My name is Lin Han, and I hail from the beautiful and diverse country of China. I'm eager to expand my circle of friends and professional connections on GitHub. I believe that collaboration and shared learning are key to growth, and I'm excited to meet like-minded individuals who share my passion for technology and open-source projects. Let's connect, exchange ideas, and create something amazing together!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=LinHanlove&show_icons=true&theme=tokyonight&line_height=27">
@@ -36,8 +24,7 @@ Here are some ideas to get you started:
 
 <div class="text-left">
   <p>- 🌟 I'm a lively and cheerful person who loves making friends.</p>
-  <p>- 🎵 I have a passion for music, which is an indispensable part of my life.</p>
-  <p>- 🎧 I enjoy listening to music and it's one of my favorite pastimes.</p>
+  <p>- 🎵 I have a passion for music, Music is my constant companion.</p>
   <p>- 🔧 I'm a strong advocate for open source and believe in the power of sharing and collaboration.</p>
   <p>- 🛠️ I maintain an open-source toolkit called <a href="https://github.com/LinHanlove/atom-tools">atom-tools</a>. Feel free to contribute or provide feedback.</p>
   <p>- 🔭 At the moment, I'm working on exciting projects at First Show.</p>
@@ -47,11 +34,6 @@ Here are some ideas to get you started:
   <p>- 📨 You can reach me at the wechat <code>linhan_0119</code>. Looking forward to connecting with you!</p>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
-</picture>
 
 <div class="text-center" style="font-size: larger; color: #333;">
   <h2 style="height: 200px; display: flex; align-items: center; justify-content: center;">
@@ -60,8 +42,13 @@ Here are some ideas to get you started:
   </h2>
   <p><br /></p>
 </div>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LinHanlove&theme=vue)](https://github.com/LinHanlove/github-readme-activity-graph)
 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
  
