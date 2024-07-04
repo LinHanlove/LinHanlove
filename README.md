@@ -47,9 +47,20 @@ Here are some ideas to get you started:
   <p>- 📨 You can reach me at the wechat <code>linhan_0119</code>. Looking forward to connecting with you!</p>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
 
-
-
+<div class="text-center" style="font-size: larger; color: #333;">
+  <h2 style="height: 200px; display: flex; align-items: center; justify-content: center;">
+    🎉 GitHub Action
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="width: 50px; height: auto; margin-left: 20px;">
+  </h2>
+  <p><br /></p>
+</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LinHanlove&theme=vue)](https://github.com/LinHanlove/github-readme-activity-graph)
 
 
 
