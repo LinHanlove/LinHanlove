@@ -23,6 +23,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Checkout other repo
+        uses: actions/checkout@v3
+        with:
+          repository: 'atom-tools'  # 其他仓库的名称
+          token: ${{ secrets.ATOM_NPM_TOKEN }}  # 访问令牌
+          path: 'https://github.com/LinHanlove/atom-tools'  # 可选：检出的仓库存放路径
+
       # 使用 Platane/snk 生成图片(贪吃蛇), see: https://github.com/Platane/snk
       - name: Generate Snake
         uses: Platane/snk@v3
