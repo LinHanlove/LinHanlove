@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=LinHanlove)
 
-Hello there! My name is Lin Han, and I hail from the beautiful and diverse country of China. I'm eager to expand my circle of friends and professional connections on GitHub. I believe that collaboration and shared learning are key to growth, and I'm excited to meet like-minded individuals who share my passion for technology and open-source projects. Let's connect, exchange ideas, and create something amazing together!
+👻 Do not create unfinished poetry collections, but rather the most terrifying and secular chapters in forbidden books！
 
 
 <p align = "center">
